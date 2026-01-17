@@ -1,0 +1,22 @@
+[Adblock Plus 2.0]
+! Title: Cdhtlr Anti Beggar List
+! Description: Blocks donation nags and other beggar-style annoyances.
+! Last modified: Sat, 17 Jan 2026 05:50:50 UTC
+! Expires: 1 days
+! Homepage: https://github.com/cdhtlr/AdBlock/
+##[class*="donate"],   [id*="donate"],   [name*="donate"],   [data-*="donate"],   [title*="donate"],   [href*="donate"],   [value*="donate"]
+##[class*="Donate"],   [id*="Donate"],   [name*="Donate"],   [data-*="Donate"],   [title*="Donate"],   [href*="Donate"],   [value*="Donate"]
+##[class*="donation"], [id*="donation"], [name*="donation"], [data-*="donation"], [title*="donation"], [href*="donation"], [value*="donation"]
+##[class*="Donation"], [id*="Donation"], [name*="Donation"], [data-*="Donation"], [title*="Donation"], [href*="Donation"], [value*="Donation"]
+##[class*="donasi"],   [id*="donasi"],   [name*="donasi"],   [data-*="donasi"],   [title*="donasi"],   [href*="donasi"],   [value*="donasi"]
+##[class*="Donasi"],   [id*="Donasi"],   [name*="Donasi"],   [data-*="Donasi"],   [title*="Donasi"],   [href*="Donasi"],   [value*="Donasi"]
+##[class*="saweria"],  [id*="saweria"],  [name*="saweria"],  [data-*="saweria"],  [title*="saweria"],  [href*="saweria"],  [value*="saweria"]
+##[class*="Saweria"],  [id*="Saweria"],  [name*="Saweria"],  [data-*="Saweria"],  [title*="Saweria"],  [href*="Saweria"],  [value*="Saweria"]
+##[class*="paypal"],   [id*="paypal"],   [name*="paypal"],   [data-*="paypal"],   [title*="paypal"],   [href*="paypal"],   [value*="paypal"]
+##[class*="Paypal"],   [id*="Paypal"],   [name*="Paypal"],   [data-*="Paypal"],   [title*="Paypal"],   [href*="Paypal"],   [value*="Paypal"]
+##[class*="patreon"],  [id*="patreon"],  [name*="patreon"],  [data-*="patreon"],  [title*="patreon"],  [href*="patreon"],  [value*="patreon"]
+##[class*="Patreon"],  [id*="Patreon"],  [name*="Patreon"],  [data-*="Patreon"],  [title*="Patreon"],  [href*="Patreon"],  [value*="Patreon"]
+##[class*="bitcoin"],  [id*="bitcoin"],  [name*="bitcoin"],  [data-*="bitcoin"],  [title*="bitcoin"],  [href*="bitcoin"],  [value*="bitcoin"]
+##[class*="Bitcoin"],  [id*="Bitcoin"],  [name*="Bitcoin"],  [data-*="Bitcoin"],  [title*="Bitcoin"],  [href*="Bitcoin"],  [value*="Bitcoin"]
+##[class*="monero"],   [id*="monero"],   [name*="monero"],   [data-*="monero"],   [title*="monero"],   [href*="monero"],   [value*="monero"]
+##[class*="Monero"],   [id*="Monero"],   [name*="Monero"],   [data-*="Monero"],   [title*="Monero"],   [href*="Monero"],   [value*="Monero"]
