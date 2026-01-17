@@ -12,8 +12,8 @@ This list is designed to improve your browsing experience by blocking annoying a
 1. Open the AdGuard app (Desktop or Mobile).
 2. Go to **Settings → Filters → Custom filters**.
 3. Click **Add filter** and paste the URL:
-   - 🟢 [Anti-Annoying List](https://raw.githubusercontent.com/cdhtlr/AdBlock/main/anti-annoying.txt&title=Cdhtlr%20Anti%20Annoying%20List)
-   - 🟢 [Anti-Beggar List](https://raw.githubusercontent.com/cdhtlr/AdBlock/main/anti-beggar.txt&title=Cdhtlr%20Anti%20Beggar%20List)
+   - 🟢 [Anti-Annoying List](https://raw.githubusercontent.com/cdhtlr/AdBlock/main/Anti-Annoying.txt)
+   - 🟢 [Anti-Beggar List](https://raw.githubusercontent.com/cdhtlr/AdBlock/main/Anti-Beggar.txt)
 4. Save and refresh your browser/app.
 
 #### You can use it on other adblockers
