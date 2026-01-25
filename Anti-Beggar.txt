@@ -1,9 +1,10 @@
 [Adblock Plus 2.0]
 ! Title: Cdhtlr Anti Beggar List
 ! Description: Blocks donation nags and other beggar-style annoyances.
-! Last modified: Mon, 26 Jan 2026 22:32:00 UTC
+! Last modified: Mon, 26 Jan 2026 23:32:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/cdhtlr/AdBlock/
+##[id*="gift"],   [name*="gift"],   [data-*="gift"],   [title*="gift"],   [href*="gift"],   [value*="gift"]
 ##[class*="donate"],   [id*="donate"],   [name*="donate"],   [data-*="donate"],   [title*="donate"],   [href*="donate"],   [value*="donate"]
 ##[class*="Donate"],   [id*="Donate"],   [name*="Donate"],   [data-*="Donate"],   [title*="Donate"],   [href*="Donate"],   [value*="Donate"]
 ##[class*="donation"], [id*="donation"], [name*="donation"], [data-*="donation"], [title*="donation"], [href*="donation"], [value*="donation"]
