@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Cdhtlr Anti Annoying List
 ! Description: Filter list that specifically removes annoying web elements.
-! Last modified: Sat, 17 Jan 2026 05:50:50 UTC
+! Last modified: Mon, 26 Jan 2026 22:32:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/cdhtlr/AdBlock/
 winpoin.com##div.wrap { margin: 0 6% !important; }
@@ -10,6 +10,9 @@ winpoin.com###primary > footer.hentry-footer:nth-child(2)
 winpoin.com##body * { text-align: justify !important; }
 winpoin.com##main.site-main { flex-basis: 100% !important; }
 winpoin.com##.entry-header { max-width: 100% !important; width: auto !important; }
+winpoin.com##.entry-wrapper:style(display: block !important;)
+winpoin.com##.article:not(.thumbnail-uncropped) .post-thumbnail img:style(position: relative;)
+winpoin.com##.post-inner>*, .entry-wrapper>*, .entry-header>*:style(margin-top: 0 !important;)
 winpoin.com##li.entry-meta-read-time, li.entry-meta-date, li.entry-meta-author, li.entry-meta-avatar
 winpoin.com##h1, h2, h3, h4, h5, h6, div, span { text-align: left !important; }
 winpoin.com##div.entry-meta.before-title
@@ -22,9 +25,10 @@ winpoin.com##p:has(a[href*="saweria.co/winpoin"])
 winpoin.com##div.code-block:has(iframe[src*="youtube.com"])
 winpoin.com##div.tfm-post-block-background-wrapper.alignfull[style*="background:#06113c"]
 winpoin.com##figure.wp-block-image.size-full img { display: block !important; margin: 0 auto !important; }
+winpoin.com##img { max-width: 50vw !important; height: auto !important; }
+winpoin.com#$#@media (max-width: 640px){.thumbnail-wide .post-thumbnail{padding-bottom:45%!important;}}
 winpoin.com###aside-sidebar
 winpoin.com##.tfm-post-block-wrap.has-block-sidebar, .wrap-inner { display: block !important; }
 winpoin.com##p, .wp-block-heading, .wp-block-image.size-full { width: auto !important; max-width: 100% !important; }
 winpoin.com##div.after-content
 winpoin.com###colophon > div.site-footer-inner
-winpoin.com##img { max-width: 50vw !important; height: auto !important; }
