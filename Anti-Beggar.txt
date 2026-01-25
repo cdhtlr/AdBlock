@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Cdhtlr Anti Beggar List
 ! Description: Blocks donation nags and other beggar-style annoyances.
-! Last modified: Sat, 17 Jan 2026 05:50:50 UTC
+! Last modified: Mon, 26 Jan 2026 22:32:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/cdhtlr/AdBlock/
 ##[class*="donate"],   [id*="donate"],   [name*="donate"],   [data-*="donate"],   [title*="donate"],   [href*="donate"],   [value*="donate"]
@@ -12,6 +12,19 @@
 ##[class*="Donasi"],   [id*="Donasi"],   [name*="Donasi"],   [data-*="Donasi"],   [title*="Donasi"],   [href*="Donasi"],   [value*="Donasi"]
 ##[class*="saweria"],  [id*="saweria"],  [name*="saweria"],  [data-*="saweria"],  [title*="saweria"],  [href*="saweria"],  [value*="saweria"]
 ##[class*="Saweria"],  [id*="Saweria"],  [name*="Saweria"],  [data-*="Saweria"],  [title*="Saweria"],  [href*="Saweria"],  [value*="Saweria"]
+##[class*="nyawer"],  [id*="nyawer"],  [name*="nyawer"],  [data-*="nyawer"],  [title*="nyawer"],  [href*="nyawer"],  [value*="nyawer"]
+##[class*="Nyawer"],  [id*="Nyawer"],  [name*="Nyawer"],  [data-*="Nyawer"],  [title*="Nyawer"],  [href*="Nyawer"],  [value*="Nyawer"]
+##[class*="streamlabs"],  [id*="streamlabs"],  [name*="streamlabs"],  [data-*="streamlabs"],  [title*="streamlabs"],  [href*="streamlabs"],  [value*="streamlabs"]
+##[class*="Streamlabs"],  [id*="Streamlabs"],  [name*="Streamlabs"],  [data-*="Streamlabs"],  [title*="Streamlabs"],  [href*="Streamlabs"],  [value*="Streamlabs"]
+##[class*="sociabuzz"],  [id*="sociabuzz"],  [name*="sociabuzz"],  [data-*="sociabuzz"],  [title*="sociabuzz"],  [href*="sociabuzz"],  [value*="sociabuzz"]
+##[class*="Sociabuzz"],  [id*="Sociabuzz"],  [name*="Sociabuzz"],  [data-*="Sociabuzz"],  [title*="Sociabuzz"],  [href*="Sociabuzz"],  [value*="Sociabuzz"]
+##[class*="trakteer"],  [id*="trakteer"],  [name*="trakteer"],  [data-*="trakteer"],  [title*="trakteer"],  [href*="trakteer"],  [value*="trakteer"]
+##[class*="Trakteer"],  [id*="Trakteer"],  [name*="Trakteer"],  [data-*="Trakteer"],  [title*="Trakteer"],  [href*="Trakteer"],  [value*="Trakteer"]
+##[class*="karyakarsa"],  [id*="karyakarsa"],  [name*="karyakarsa"],  [data-*="karyakarsa"],  [title*="karyakarsa"],  [href*="karyakarsa"],  [value*="karyakarsa"]
+##[class*="Karyakarsa"],  [id*="Karyakarsa"],  [name*="Karyakarsa"],  [data-*="Karyakarsa"],  [title*="Karyakarsa"],  [href*="Karyakarsa"],  [value*="Karyakarsa"]
+##[class*="ko-fi"],  [id*="ko-fi"],  [name*="ko-fi"],  [data-*="ko-fi"],  [title*="ko-fi"],  [href*="ko-fi"],  [value*="ko-fi"]
+##[class*="Ko-fi"],  [id*="Ko-fi"],  [name*="Ko-fi"],  [data-*="Ko-fi"],  [title*="Ko-fi"],  [href*="Ko-fi"],  [value*="Ko-fi"]
+##[class*="Ko-Fi"],  [id*="Ko-Fi"],  [name*="Ko-Fi"],  [data-*="Ko-Fi"],  [title*="Ko-Fi"],  [href*="Ko-Fi"],  [value*="Ko-Fi"]
 ##[class*="paypal"],   [id*="paypal"],   [name*="paypal"],   [data-*="paypal"],   [title*="paypal"],   [href*="paypal"],   [value*="paypal"]
 ##[class*="Paypal"],   [id*="Paypal"],   [name*="Paypal"],   [data-*="Paypal"],   [title*="Paypal"],   [href*="Paypal"],   [value*="Paypal"]
 ##[class*="patreon"],  [id*="patreon"],  [name*="patreon"],  [data-*="patreon"],  [title*="patreon"],  [href*="patreon"],  [value*="patreon"]
